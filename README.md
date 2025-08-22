@@ -21,7 +21,7 @@ Proje iki ana aşamadan oluşmaktadır:
 
 ## 📸 Örnek Görüntü
 
-![Duygu Tanıma Örneği](screenshots/result.png)
+![Duygu Tanıma Örneği](screenshots/results.png)
 
 ## 📸 Web Uygulaması Örneği
 
