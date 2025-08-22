@@ -20,7 +20,7 @@ Proje iki ana aşamadan oluşmaktadır:
 ---
 
 ## 📸 Örnek Görüntü
-##Canlı kameradan alınan yüz kareleri üzerinden modelin tahmin ettiği duygular:
+## Canlı kameradan alınan yüz kareleri üzerinden modelin tahmin ettiği duygular:
 
 ![Duygu Tanıma Örneği](screenshots/results.png)
 
